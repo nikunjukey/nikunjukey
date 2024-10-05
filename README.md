@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on projects involving **Spring Boot** and **Blockchain**.
 - 👯 I’m open to collaborating on exciting **Java** and **Blockchain** projects.
 - 💬 Ask me about **Java**, **Spring Framework**, and **Blockchain** tech.
-- 📫 How to reach me: [nikunj29@gmail.com](mailto:nikunj29@gmail.com)
+- 📫 How to reach me: [nikunj.ukey.msc@ghrccst.raisoni.net
+](mailto:nikunj.ukey.msc@ghrccst.raisoni.net
+)
 
 ---
 
