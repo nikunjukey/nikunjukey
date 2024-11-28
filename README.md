@@ -13,16 +13,20 @@
 
 ### 🛠️ Skills & Technologies:
 #### Backend:
-- **Languages**: Core Java
-- **Frameworks**: Spring Boot, Spring Security, Hibernate
-- **Database**: MySQL, Hibernate ORM
-- **Security**: JWT, OAuth2, Spring Security
+- **Languages**: Core Java , xml , dart
+- **Frameworks**: Spring Boot, Spring Security
+- **Database**: MySQL
+- **Security**: Spring Security
 
 #### Frontend (Basics):
 - **Technologies**: HTML, CSS, JavaScript
 
 #### Blockchain:
-- **Platforms**: Ethereum, Solidity (Basics)
+- **Platforms**:  Solidity (Basics)
+
+ #### Mobile Framework: Android sdk, flutter , React native
+
+  
 
 ---
 
@@ -47,6 +51,6 @@
 ---
 
 ### Connect with Me:
-- **Email**: [nikunj29@gmail.com](mailto:nikunj29@gmail.com)
+- **Email**: [nikunjukey29@gmail.com](mailto:nikunjukey29@gmail.com)
 
 
