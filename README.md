@@ -13,9 +13,9 @@
 
 ### 🛠️ Skills & Technologies:
 #### Backend:
-- **Languages**: Core Java , xml , dart
-- **Frameworks**: Spring Boot, Spring Security
-- **Database**: MySQL
+- **Languages**: Core Java , xml 
+- **Frameworks**: Spring Boot, React native
+- **Database**: MySQL , Firebase 
 - **Security**: Spring Security
 
 #### Frontend (Basics):
